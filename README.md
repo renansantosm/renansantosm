@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Backend`**
 
-Me chamo Renan Moreira, sou desenvolvedor Backend. Atualmente, estou cursando Analise e Desenvolvimento de Sistemas na Uninter, estou em busca de uma oportunidade de estágio como desenvolvedor.
+Me chamo Renan Moreira, sou desenvolvedor Backend. Atualmente, estou cursando Analise e Desenvolvimento de Sistemas, estou em busca de uma oportunidade de estágio como desenvolvedor.
 
 ---
 
